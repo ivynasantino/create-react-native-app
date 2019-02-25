@@ -2,7 +2,10 @@
 
 **Note: This repository has been archived and the issue tracker for Create React Native App has moved to: https://github.com/expo/expo-cli/issues**
 
-[![Backers on Open Collective](https://opencollective.com/create-react-native-app/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/create-react-native-app/sponsors/badge.svg)](#sponsors) [![npm version](https://badge.fury.io/js/create-react-native-app.svg)](https://badge.fury.io/js/create-react-native-app)
+[![npm version](https://badge.fury.io/js/create-react-native-app.svg)](https://badge.fury.io/js/create-react-native-app)
+
+- [![Backers on Open Collective](https://opencollective.com/create-react-native-app/backers/badge.svg)](#backers) 
+- [![Sponsors on Open Collective](https://opencollective.com/create-react-native-app/sponsors/badge.svg)](#sponsors) 
 
 Create React Native apps with no build configuration.
 
