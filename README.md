@@ -137,26 +137,13 @@ Please see [Contributin to Expo CLI](https://github.com/expo/expo-cli/blob/maste
 
 ## Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/react-community/create-react-native-app/graphs/contributors"><img src="https://opencollective.com/create-react-native-app/contributors.svg?width=890&button=false" /></a>
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)]. [[Contributors](https://github.com/react-community/create-react-native-app/graphs/contributors)]
 
 ## Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/create-react-native-app#backer)]
 
-<a href="https://opencollective.com/create-react-native-app#backers" target="_blank"><img src="https://opencollective.com/create-react-native-app/backers.svg?width=890"></a>
-
 ## Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/create-react-native-app#sponsor)]
 
-<a href="https://opencollective.com/create-react-native-app/sponsor/0/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/1/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/2/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/3/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/4/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/5/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/6/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/7/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/8/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/create-react-native-app/sponsor/9/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/9/avatar.svg"></a>
